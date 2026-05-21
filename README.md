@@ -232,7 +232,7 @@ Medicine-Reminder-System/
 
 ## 👤 Author
 
-**Thanmai Venkat**
+**Sunkari Sudheer**
 Embedded Systems Engineer (Fresher)
 
 **Core Skills**
